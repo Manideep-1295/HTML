@@ -1,3 +1,10 @@
 p{
     color : goldenrod;
+    border: 2px solid rgb(80, 115, 255);
+    padding: 10px;
+}
+.Hobbies{
+    border: 2px;
+    border-style: dashed;
+    border-radius: 20px;
 }

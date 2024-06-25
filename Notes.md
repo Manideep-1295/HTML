@@ -40,3 +40,15 @@ Preferred for reusability and separation
 1. Serif - In latin it means Decoration
 2. Sans Serif - Sans means NO in latin
 - Dont add more than 3 fonts in your webpage, beacause the loading time of these fonts is more.
+
+### Para vs Anchor
+Para elements print the content in a new line while the anchor tag prints it side by side
+Because Para elements occupy the entire width of the parent tag. Its because the display is block 
+Where anchor is inline.
+All the block elements take the entire width of the container
+Block elements :
+All header tags 
+Inline elements :
+span, anchor etc.
+span - inline element
+div - block element
